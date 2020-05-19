@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "s@ikat"
-baseurl = "http://saikat.xyz/"
+baseurl = "http://saikat.site/"
 publishDir = "docs"
 theme = "aerial"
 
