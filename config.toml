@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Aerial"
-baseurl = "http://example.org/"
+baseurl = "#"
 theme = "aerial"
 
 [params]
